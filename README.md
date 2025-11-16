@@ -27,8 +27,7 @@ or
 python -m streamlit run app.py  #Run as a Python module
           
 
-
-** 📁 Project Structure **
+## 📁 Project Structure
 stock_prediction_app/
 ├── app.py                 # الملف الرئيسي للتطبيق
 ├── predictor.py           # فئة StockPredictor
