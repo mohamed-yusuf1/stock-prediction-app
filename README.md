@@ -15,16 +15,16 @@ A sophisticated stock price prediction web application built with Streamlit and 
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/stock-prediction-app.git
-cd stock-prediction-app
+ git clone https://github.com/your-username/stock-prediction-app.git
+ cd stock-prediction-app
 
 2. Install dependencies:
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 3. Run the application:
-streamlit run app.py  
-or 
-python -m streamlit run app.py  #Run as a Python module
+ streamlit run app.py  
+ or 
+ python -m streamlit run app.py  #Run as a Python module
           
 
 ## 📁 Project Structure
@@ -41,7 +41,7 @@ stock_prediction_app/
     └── styles.css
 
 
-📊 Data Format
+## 📊 Data Format
 Your CSV file should contain these columns:
 
 Date: Trading date
@@ -60,7 +60,7 @@ Change %: Percentage change
 
 
 
-🎯 Usage
+## 🎯 Usage
 Upload your stock data CSV file
 
 Configure model parameters in the sidebar
